@@ -1,4 +1,4 @@
 node_modules
-.expo
+.expo/*
 yarn.lock
-.expo-shared
+.expo-shared/*
